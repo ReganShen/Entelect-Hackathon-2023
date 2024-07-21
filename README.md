@@ -1,15 +1,7 @@
 # Predictive Scheduling of Maintenance to Mitigate Load Shedding
 
 ## Leveraging Renewable Energy Predictions
-
 ---
-
-### Team: TheWeather
-- **Regan Shen**
-- **Aldrin Ngorima**
-
----
-
 ## The Proposal
 
 ### Balancing Energy Supply
@@ -36,15 +28,6 @@ This strategy leads to more efficient grid management and optimized use of renew
 ---
 
 ## Results
-*Placeholder for image with the results showing prediction accuracy for renewable energy production based on weather data, demonstrating the feasibility of the problem statement.*
-
----
-
-## Thank You
-
----
-
-### Image Placeholder
 ![results](https://github.com/user-attachments/assets/32293302-1aee-4da2-b8c4-b7571eb7f813)
 
 ---
